@@ -1,0 +1,10 @@
+﻿1 | Diego | diego@programmers.com.br
+2 | Lucas | lucas@programmers.com.br
+3 | Caio  | caio@programmers.com.br
+4 | Ester | ester@programmers.com.br
+5 | Mariana | mariana@programmers.com.br
+6 | Kemely | kemely@programmers.com.br
+7 | Guilhermes  | guilheme@programmers.com.br
+8 | Anderson | anderson@programmers.com.br
+9 | Ulisses | ulisses@programmers.com.br
+10 | Eric | eric@programmers.com.br

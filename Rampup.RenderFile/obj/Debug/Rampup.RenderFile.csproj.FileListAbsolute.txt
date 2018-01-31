@@ -1,0 +1,7 @@
+c:\users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\bin\Debug\Rampup.RenderFile.exe.config
+c:\users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\bin\Debug\Rampup.RenderFile.exe
+c:\users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\bin\Debug\Rampup.RenderFile.pdb
+c:\users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\obj\Debug\Rampup.RenderFile.csproj.CoreCompileInputs.cache
+c:\users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\obj\Debug\Rampup.RenderFile.exe
+c:\users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\obj\Debug\Rampup.RenderFile.pdb
+C:\Users\diego.ichinose\source\repos\Rampup.RenderFile\Rampup.RenderFile\obj\Debug\Rampup.RenderFile.csprojResolveAssemblyReference.cache
